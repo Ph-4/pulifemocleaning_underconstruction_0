@@ -141,7 +141,7 @@ h2 {
 
 /* Background */
 .background {
-  background: url(../images/logo.svg) no-repeat;
+  background: url(logo.svg) no-repeat;
   background-position: right right;
   bottom: -20px;
   background-size: cover;
